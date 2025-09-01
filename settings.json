@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "KINGMULTI-SMP.aternos.me",
+    "port": 59893,
     "version": "1.19.3"
   },
 
